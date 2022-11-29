@@ -1,0 +1,1 @@
+# magento2-create-new-module-template
